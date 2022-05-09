@@ -31,18 +31,6 @@ Instructions
 
     List all WAM accounts on the device
 
-> Example 7: Get-DsRegInfo -ListAllAccounts
-
-    List all WAM accounts on the device
-
-> Example 8: Get-DsRegInfo -CleanAccounts
-
-    Remove all WAM accounts on the device
-    
-> Example 9: Get-DsRegInfo -UpdateDevice
-
-    Update a devices registration status
-
-> Example 9: Get-DsRegInfo -RefreshPrimaryPRT
+> Example 7: Get-DsRegInfo -RefreshPrimaryPRT
 
     Refresh the devices Primary Refresh Token in the cache
